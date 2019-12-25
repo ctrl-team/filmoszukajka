@@ -10,4 +10,4 @@ Run:
 ```py Znajdz.py```
 
 Download:
-[Releases](https://github.com/ctrl-team/filmoszukajka/releases/tag/1.0)
+[Releases](https://github.com/ctrl-team/filmoszukajka/releases/tag/1.0.0)
